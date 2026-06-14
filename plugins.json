@@ -1,0 +1,7 @@
+{
+  "plugins": {
+    "core-app": [],
+    "core-datasource": [],
+    "yfinance-app": []
+  }
+}
